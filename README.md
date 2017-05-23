@@ -1,3 +1,3 @@
 ## Komhar Eth Go
 
-- plugin to custom Consensu engine.
+- plugin to custom Consensus engine.
